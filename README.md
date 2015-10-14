@@ -1,3 +1,11 @@
+# Directions:
+1. Fork this repo.
+2. Clone your remote into your local machine.
+3. Follow the directions below the line to fix the markdown formatting.
+4. Save/add/commit, and then push to your remote!
+
+---
+
 Make me a heading size 1
 Make me a heading size 3
 
