@@ -1,8 +1,9 @@
 # Directions:
-1. Fork this repo.
+1. **Read all directions before following any of them.**
+2. Fork this repo.
 2. Clone your remote into your local machine.
 3. Follow the directions below the line to fix the markdown formatting.
-4. Save/add/commit, and then push to your remote!
+4. When you are completely finished, save/add/commit, and then push to your remote!
 5. Reload your fork on GitHub; you should see your changes!
 
 ---
