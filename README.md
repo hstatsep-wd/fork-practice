@@ -32,3 +32,14 @@ Make me bold
 Make me italicized
 
 Turn this entire line of text into a link that goes to hstat.org
+
+Turn this entire line of text into code
+
+Turn on syntax highlighting for the entire block of HTML code below
+```HTML
+<ol>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ol>
+```
