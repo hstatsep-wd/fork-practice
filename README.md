@@ -1,5 +1,5 @@
 # Directions:
-1. **Read all directions before following any of them.**
+1. _**Read all directions before following any of them.**_
 2. Fork this repo.
 2. Clone your remote into your local machine.
 3. Follow the directions below the line to fix the markdown formatting.
