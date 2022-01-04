@@ -6,7 +6,7 @@
 5. READ what your command line says back to you when you try to add/commit/push!
 6. Since we can't commit an empty directory, `cd` into `subdir` and create a file named `ready.txt`. Go ahead and put some text in that file: it can be whatever you want. But hold on, don't commit yet.
 7. Go back up one level to the top-level directory by doing `cd ..` and make a file named `notready.txt`.
-8. Use `git status` to see that both `notready.txt` and `subdir/ready.txt` are in red.
+8. Use `git status` to see that both `notready.txt` and `subdir/` are in red (_really_, `subdir/` in this case means `subdir/notready.txt`).
 9. While we typically use `git add .` to add _everything_ to the stage, let's imagine that `subdir/ready.txt` is ready to be committed, but `notready.txt` isn't. So try `git add subdir/ready.txt` to make sure that we add _only_ that file to the stage, and _NOT_ `notready.txt`.
 10. Do `git status` again to confirm that `subdir/ready.txt` is green, and `notready.txt` is red.
 11. Go ahead and commit, then push!
