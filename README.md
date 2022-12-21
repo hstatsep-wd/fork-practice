@@ -18,4 +18,4 @@ That's it, you're done!
 To recap, we saw that:
 * You can't commit an empty directory.
 * You can add just _some_ things to the stage, and thus not commit everything.
-* You can see any new _uncommitted_ local changes by doing `git diff`. 
+* You can see any new _uncommitted_ local changes by doing `git diff`.
